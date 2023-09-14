@@ -7,3 +7,6 @@ Aprenda JavaScript de forma simples.
 
 ### Link do Curso
 [aula](https://cursos.dankicode.com/)
+
+PurpleBooth - ReadMe
+[readme](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
