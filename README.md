@@ -6,4 +6,4 @@ Aprenda JavaScript de forma simples.
 ![HomemLetra](https://github.com/Rayssatsouza/te_javascript/blob/main/homem-letra.gif)
 
 ### Link do Curso
-![aula](https://cursos.dankicode.com/)
+[aula](https://cursos.dankicode.com/)
